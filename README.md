@@ -1,5 +1,5 @@
 # SkinnerPudritzCloutier2025-MR-curves
-Mass-Radius curves created using the planetary interior structure model presented in Skinner et al. (2025)
+Mass-Radius curves created using the planetary interior structure model presented in Skinner, Pudritz, and Cloutier (2025, in prep). To be submitted to MNRAS imminently. NOTE THAT THESE CURVES HAVE NOT YET UNDERGONE PEER REVIEW, however they represent our finished model before submission.
 
 FORMATTING:
 
